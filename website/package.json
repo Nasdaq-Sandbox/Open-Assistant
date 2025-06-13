@@ -75,7 +75,7 @@
     "react-dom": "^18.2.0",
     "react-feature-flags": "^1.0.0",
     "react-hook-form": "^7.45.4",
-    "react-i18next": "^12.2.2",
+    "react-i18next": "^15.5.3",
     "react-markdown": "^8.0.7",
     "react-syntax-highlighter": "^15.5.0",
     "react-textarea-autosize": "^8.5.2",
